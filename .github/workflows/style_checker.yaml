@@ -1,3 +1,4 @@
+#stylechecker
 name: Check Style
 on: push
 

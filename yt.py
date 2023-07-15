@@ -3,7 +3,7 @@ import requests
 from pyyoutube import Api
 
 # Initialize the API instance with your API key
-api = Api(api_key="AIzaSyBEVx9oQcIobO7yYlU5GxdlEXSWP3qmAIU")
+api = Api(api_key="CLASSIFIED")
 
 # Send a GET request to retrieve playlists by channel ID
 channel_id = "UC_x5XG1OV2P6uZZ5FSM9Ttw"
